@@ -24,6 +24,8 @@ window.addEventListener("scroll",hi);
 
 function switching(){
     link.classList.toggle("mobile");
+    // link.classList.toggle("glass");
+
 }
 switchs.addEventListener("click",switching);
 
